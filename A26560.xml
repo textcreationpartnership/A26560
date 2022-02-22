@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Agreement prepared for the people of England and the places therewith incorporated, for a secure and present peace, upon grounds of common right, freedom and safety also, a declaration of the General Councel of Officers, concerning the same : with a petition of His Excellency and the said General Councel, presented therewith, Saturday, January 20,</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26560</idno>
+            <idno type="STC">Wing A783</idno>
+            <idno type="STC">ESTC R8102</idno>
+            <idno type="EEBO-CITATION">11639358</idno>
+            <idno type="OCLC">ocm 11639358</idno>
+            <idno type="VID">47962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47962)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 4:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Agreement prepared for the people of England and the places therewith incorporated, for a secure and present peace, upon grounds of common right, freedom and safety also, a declaration of the General Councel of Officers, concerning the same : with a petition of His Excellency and the said General Councel, presented therewith, Saturday, January 20,</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[1], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Partridge, R. Harford, G. Calvert, and G. Whittington,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"By the Appointment of the Generall Councel of Officers of the Army. Signed, John Rushvvorth, Sec."</note>
+                  <note>"An agreement of the people" (p.7-26) is preceded by the petition of Lord Fairfax (p. 3-6).</note>
+                  <note>The answer of the House of Commons to the petition, dated "Die Sabbathi; 20 Januarii, 1649": p. [1].</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Election districts.</term>
+               <term>Constitutional history --  Great Britain --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:47962:1"/>
+            <pb facs="tcp:47962:1" rendition="simple:additions"/>
+            <pb facs="tcp:47962:2"/>
+            <opener>
+               <date>Die Sabbathi; <hi>20.</hi> Januarii. <hi>1649.</hi>
+               </date>
+            </opener>
+            <p>
+               <hi>LIeutenant General</hi> Hammond, <hi>Colonel</hi> Okey, <hi>and other Of<g ref="char:EOLhyphen"/>ficers of the Army, this day preſented a</hi> Petition <hi>to the Houſe, with a Draught of the</hi> Agreement of the People: <hi>The Petitioners being called in, Mr</hi> Speaker, <hi>by Command of the Houſe, gave them this Anſwer.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>GENTLEMEN,</salute>
+                  </opener>
+                  <p>YOu the Officers of the Army, ſent by the Lord General, and the Officers of the Army, unto this Houſe with this <hi>Petiti<g ref="char:EOLhyphen"/>on:</hi> The Houſe hath read your <hi>Petition,</hi> and for the <hi>Agreement,</hi> preſented therewith, the Houſe hath commanded me to tell you, They have reſolved to take the ſame into their Conſideration, with what poſſible ſpeed the neceſſity of the preſent weighty and urgent affairs will permit. They have commanded me like<g ref="char:EOLhyphen"/>wiſe to tell you, They find theſe good Affections and ſerious Re<g ref="char:EOLhyphen"/>preſentations made in your <hi>Petition,</hi> that they have Ordered it to be printed. I am likwiſe commanded to tell you, That this Houſe doth take notice of your faithful and great Services to the Kingdom, in ſtanding in the Gap for their Preſervation; And com<g ref="char:EOLhyphen"/>manded me to give hearty Thanks to the Lord General, and the Officers of the Army, for theſe good Services, and the good Af<g ref="char:EOLhyphen"/>fections you have herein expreſſed; And I do, in their Name, give the hearty Thanks of this Houſe to the Lord General, and to you, and the reſt of the Officers of the Army, for their good Af<g ref="char:EOLhyphen"/>fections, great Services, and cordial Expreſſions.</p>
+                  <closer>
+                     <signed>Hen: Scobel, Cler. Parl. Dom. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:47962:2" rendition="simple:additions"/>
+            <p>AN AGREEMENT Prepared for the People of England, And the places therewith Incorporated, For a ſecure and preſent PEACE, upon Grounds of Common Right Freedom and Safety. Alſo, a DECLARATION of the General Councel of Officers, concerning the ſame. With a PETITION of his Excellency and the ſaid General Councel, preſented therewith, <hi>Saturday, January</hi> 20. 1648. To the Honorable the <hi>COMMONS</hi> of <hi>ENGLAND</hi> in PRLIAMENT aſſembled. Here tendred to the Peoples Conſiderations, and in due time for their Subſcriptions.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>By the Appointment of the Generall Councel of Officers of the Army.</p>
+                     <closer>
+                        <signed>Signed, JOHN RUSHVVORTH, Sec'</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Partridge, R. Harford, G. Calvert,</hi> and <hi>G. Whittington.</hi> MDCXLIX.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:47962:3"/>
+            <pb n="3" facs="tcp:47962:3"/>
+            <head>To the honorable the Commons of ENGLAND in Parliament aſſembled; <hi>The humble Petition of his Excellency</hi> Thomas <hi>Lord</hi> Fairfax, <hi>and the General Councel of Officers of the Army and his Command, concerning the Draught of</hi> An Agreement of the People, <hi>by them framed and prepared.</hi>
+            </head>
+            <p>IN o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r late Remonſtrance of the 18 of No<g ref="char:EOLhyphen"/>vember laſt, we propounded (next after the matters of publike Juſtice) ſome Foundations for a general ſettlement of Peace in the Nation; which we therein deſired might be formed and Eſtabliſhed in the na<g ref="char:EOLhyphen"/>ture of a generall Contract or Agreement of the People; and ſince then, the matters ſo propounded being wholy rejected, or no con<g ref="char:EOLhyphen"/>ſideration of them admitted in Parliament (though viſibly of higheſt Moment to the Publique) and all ordinary Remedies being denyed, we were neceſſitated to an extraor<g ref="char:EOLhyphen"/>dinary way of Remedy, whereby to avoyd the miſchiefs then at hand, and ſet you in a condition (without ſuch obſtructions or di<g ref="char:EOLhyphen"/>verſions by corrupt Members) to proceed to matters of publique Juſtice and general Settle<g ref="char:EOLhyphen"/>ment. Now as nothing did in our own hearts more juſtifie our late undertakings to<g ref="char:EOLhyphen"/>wards many Members in this Parliament,
+<pb n="4" facs="tcp:47962:4"/>then the neceſſity thereof in order to a ſound Settlement in the Kingdom, and the integri<g ref="char:EOLhyphen"/>ty of our intentions to make uſe of it only to that end, ſo we hold our ſelves obliged to give the People all aſſurance poſſible, That our oppoſing the corrupt cloſure endeavoured with the King, was not in deſigne to hinder Peace or Settlement, (thereby to render our employments, as Souldiers, neceſſary to be continued,) and that neither that extra<g ref="char:EOLhyphen"/>ordinary courſe we have taken, nor any other proceeding of ours, have been intended for the ſetting up of any particular Party or In<g ref="char:EOLhyphen"/>tereſt, by or with which to uphold our ſelves in Power and Dominion over the Nation, but that it was and is the deſire of our hearts, in all we have done, (with the hindering of that imminent evil, and deſtructive con<g ref="char:EOLhyphen"/>junction with the King) to make way for a ſettlement of the Peace and Government of the Kingdom upon Grounds of common Freedom and Safety: And therefore, becauſe our former Overtures for that purpoſe being only in general terms, and not reduced to a certainty of particulars fit for practiſe might poſſibly be underſtood, but as plauſible pre<g ref="char:EOLhyphen"/>tences, not intended really to be put into
+<pb n="5" facs="tcp:47962:4"/>effect, We have thought it our duty to draw out thoſe generals into an intire frame of par<g ref="char:EOLhyphen"/>ticulars, aſcertained with ſuch circumſtances as may make it effectively practicable: And for that end, while your time hath been taken up in other matters of high and preſent Im<g ref="char:EOLhyphen"/>portance, we have ſpent much of ours in pre<g ref="char:EOLhyphen"/>paring and perfecting ſuch a draught of an A<g ref="char:EOLhyphen"/>greement, and in all things ſo circumſtanti<g ref="char:EOLhyphen"/>ated, as to render it ripe for your ſpeedier con<g ref="char:EOLhyphen"/>ſideration, and the Kingdoms acceptance and practiſe (if approved:) And ſo we do here<g ref="char:EOLhyphen"/>with humbly preſent it to you.</p>
+            <p>Now to prevent miſunderſtanding of our in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>entions therein, We have but this to ſay, That we are far from ſuch a ſpirit, as poſitively to im<g ref="char:EOLhyphen"/>poſe our private apprehenſions upon the judg<g ref="char:EOLhyphen"/>ments of any in the Kingdom, that have not forfeited their Freedom, and much leſſe upon your ſelves: Neither are we apt in any wiſe to inſiſt upon circumſtantial things, or ought that is not evidently fundamental to that pub<g ref="char:EOLhyphen"/>lique Intereſt for which You and We have de<g ref="char:EOLhyphen"/>clared and engaged; But in this Tender of it we humbly deſire,</p>
+            <p n="1">1. <hi>That whether it ſhall be fully approved by You and received by the People (as it now ſtands) or not,
+<pb n="6" facs="tcp:47962:5"/>it may yet remain upon Record, before you, a perpe<g ref="char:EOLhyphen"/>tual witneſs of our real intentions and utmost en<g ref="char:EOLhyphen"/>deavors for a ſound and equal Settlement; and as a testimony, whereby all men may be aſſured, what we are willing and ready to</hi> acquieſce <hi>in, and their jealouſies ſatisfied or mouths ſtopt, who are apt to think or ſay, We have no bottom.</hi>
+            </p>
+            <p n="1">2. <hi>That (with all expedition which the immediate and preſsing great affairs will admit) it may receive your moſt mature Conſideration and Reſolutions up<g ref="char:EOLhyphen"/>on it; not that we deſire either the whole, or what you ſhall like in it, ſhould be by your Authority impoſed as a Law upon the Kingdom,</hi> (<hi>for ſo it would loſe the intended nature of</hi> An Agreement of the People,) <hi>but that (ſo far as it concurs with your own judgments) it may receive Your Seal of Appro<g ref="char:EOLhyphen"/>bation only.</hi>
+            </p>
+            <p n="3">3. <hi>That (according to the method propounded therein) it may be tendred to the People in all parts, to be ſubſcribed by thoſe that are willing, (as Petitions, and other things of a voluntary nature, are) and that mean while, the aſcertaining of thoſe circum<g ref="char:EOLhyphen"/>stances, which it refers to Commiſsioners in the ſeveral Counties, may be proceeded upon in a way preparatory to the practiſe of it: And if upon the Account of ſubſcriptions (to be returned by thoſe Commiſsioners in</hi> April <hi>next</hi>) <hi>there appear to be a general or common Reception of it amongst the People, or by the well-affected of them, and ſuch as are not obnoxious for Delinquency, it may then take place, and effect according to the Tenor and Subſtance of it.</hi>
+            </p>
+            <closer>
+               <dateline>WHITEHALL <date>
+                     <hi>Jan.</hi> 15. 1649.</date>
+               </dateline>
+               <signed>
+                  <hi>And Your Petitioners ſhall pray, &amp;c.</hi> By the Appointment of his Excellency, and the general Councel of Officers of the Army. Jo: RUSHVVORTH <hi>Secr'.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="agreement">
+            <pb n="7" facs="tcp:47962:5"/>
+            <head>AN AGREEMENT OF THE PEOPLE OF ENGLAND, And the places therewith INCORPORATED, For a ſecure and preſent Peace, upon Grounds of Common Right, Freedom and Safety.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving by our late labors and hazards made it appear to the world at how high a rate we va<g ref="char:EOLhyphen"/>lue our Juſt Freedom, And God having ſo far owned our cauſe as to deliver the Enemies thereof into our hands, We do now hold our ſelves bound in mutuall duty to each other to take the beſt care we can for the future, to avoyd both the dan<g ref="char:EOLhyphen"/>ger
+<pb n="8" facs="tcp:47962:6"/>of returning into a ſlaviſh condition, and the chargeable re<g ref="char:EOLhyphen"/>medy of another War: For as it cannot be imagined, That ſo many of our Country men would have oppoſed us in this Quar<g ref="char:EOLhyphen"/>rell, if they had underſtood their own good, ſo may we hope<g ref="char:EOLhyphen"/>fully promiſe to our ſelves, That when our Common Right and Liberties ſhall be cleared, their endeavors will be diſappoint<g ref="char:EOLhyphen"/>ed, that ſeek to make themſelves our Maſters, ſince therefore our former oppreſſions, and not yet ended troubles, have been oc<g ref="char:EOLhyphen"/>caſioned, either by want of frequent National Meetings in Councel, or by the undue or unequal Conſtitution thereof, or by rendering thoſe meeting uneffectual. We are fully agreed and reſolved (God willing) to provide, That hereafter our Repreſen<g ref="char:EOLhyphen"/>tatives be neither left to an uncertainty for time, nor be unequal<g ref="char:EOLhyphen"/>ly conſtituted, nor made uſeleſs to the ends for which they are intended.</p>
+            <div type="part">
+               <head>In Order whereunto We Declare and Agree;</head>
+               <p n="1">1. That to prevent the many inconveniencies, apparently a<g ref="char:EOLhyphen"/>riſing from the long continuance of the ſame perſons in ſupream Authority, this Preſent Parliament end and diſolve upon, or be<g ref="char:EOLhyphen"/>fore the laſt day of <hi>April,</hi> in the year of our Lord. 1649.</p>
+               <p n="2">2. That the People of <hi>England</hi> (being at this day very une<g ref="char:EOLhyphen"/>qually diſtributed, by Counties, Cities and Burroughs, for the E<g ref="char:EOLhyphen"/>lection of their Repreſentatives) be indifferently proportioned: And to this end, That the Repreſentative of the whole Nation ſhall conſiſt of four hundred perſons, or not above; and in each Conuty, and the places thereto ſubjoyned, there ſhall be choſen, to make up the ſaid Repreſentative at all times, the ſeveral unmbers here mentioned; <hi>VIZ.</hi>
+               </p>
+               <pb n="9" facs="tcp:47962:6"/>
+               <list>
+                  <item>In the County of <hi>Kent,</hi> with the Burroughs, Towns, and Pariſhes therein (except ſuch as are hereunder particularly named) ten. 10</item>
+                  <item>The City of <hi>Canterbury,</hi> with the Suburbs adjoyning, and Liberties thereof, two. 2</item>
+                  <item>The City of <hi>Rocheſter,</hi> with the Pariſhes of <hi>Chathan,</hi> and <hi>Strowd,</hi> one. 1</item>
+                  <item>The Cinque Ports in <hi>Kent</hi> and <hi>Suſſex, viz. Dover, Rum<g ref="char:EOLhyphen"/>ney, Hyde, Sandwich, Haſtings,</hi> with the townes of <hi>Rye</hi> and <hi>Winchelſey,</hi> three. 3</item>
+                  <item>The County of <hi>Suſſex,</hi> with the Burroughs, Towns and Pariſhes therein (except <hi>Chicheſter</hi> and the Cinque Ports) eight. 8</item>
+                  <item>The City of <hi>Chicheſter,</hi> with the Suburbs and Liberties thereof, one. 1</item>
+                  <item>The County of <hi>Southampton,</hi> with the Burroughs, Towns and Pariſhes therein, except ſuch as are here<g ref="char:EOLhyphen"/>under named, eight. 8</item>
+                  <item>The City of <hi>Wincheſter,</hi> with the Suburbs and Liberties thereof, one. 1</item>
+                  <item>The County of the town of <hi>Southampton,</hi> one. 1</item>
+                  <item>The County of <hi>Dorſet,</hi> with the Burroughs, Townes and Pariſhes therein (except <hi>Dorcheſter</hi>) ſeven. 7</item>
+                  <item>The Town of <hi>Dorchester,</hi> one. 1</item>
+                  <item>The County of <hi>Devon,</hi> with the Burroughs, Towns and Pariſhes therein, except ſuch as are hereunder parti<g ref="char:EOLhyphen"/>cularly named, twelve. 12</item>
+                  <item>The City of <hi>Exceſter,</hi> two. 2</item>
+                  <pb n="10" facs="tcp:47962:7"/>
+                  <item>The Town of <hi>Plymouth,</hi> two. 2</item>
+                  <item>The Town of <hi>Barnstaple,</hi> one. 1</item>
+                  <item>The County of <hi>Cornwall,</hi> with the Burroughs, Towns, and Pariſhes therein, eight. 8</item>
+                  <item>The County of <hi>Somerſet,</hi> with the Burroughs, Townes and Pariſhes therein, except ſuch as are hereunder named, eight. 8</item>
+                  <item>The City of <hi>Briſtoll,</hi> three. 3</item>
+                  <item>The Towne of <hi>Taunton-Deane,</hi> one. 1</item>
+                  <item>The County of <hi>Wilts,</hi> with the Burroughs, Towns and Pariſhes therein (except <hi>Saliſbury,</hi> ſeven. 7</item>
+                  <item>The City of <hi>Saliſbury,</hi> one. 1</item>
+                  <item>The County of <hi>Berks,</hi> with the Burroughs, Towns and Pariſhes therein, except <hi>Reading,</hi> five. 5</item>
+                  <item>The Town of <hi>Reading,</hi> one. 1</item>
+                  <item>The County of <hi>Surrey,</hi> with the Burroughs, Towns, and Pariſhes therein, except <hi>Southwarke,</hi> five. 5</item>
+                  <item>The Burrough of <hi>Southwarke,</hi> two. 2</item>
+                  <item>The County of <hi>Middleſex,</hi> with the Burroughs, Towns, and Pariſhes therein, except ſuch as are here<g ref="char:EOLhyphen"/>under named, four. 4</item>
+                  <item>The City of <hi>London,</hi> eight. 8</item>
+                  <item>The City of <hi>VVeſtminſter,</hi> and the <hi>Dutchy,</hi> two. 2</item>
+                  <item>The County of <hi>Hartford,</hi> with the Burroughs, Towns, and Pariſhes therein, ſix. 6</item>
+                  <pb n="11" facs="tcp:47962:7"/>
+                  <item>The County of <hi>Buckingham</hi> with the Burroughs, Towns and Pariſhes therein, ſix. 6</item>
+                  <item>The County of <hi>Oxon,</hi> with the Burroughs, Towns, and Pariſhes therein (except ſuch as are here under<g ref="char:EOLhyphen"/>named) four. 4</item>
+                  <item>The City of <hi>Oxon,</hi> two. 2</item>
+                  <item>The Univerſity of <hi>Oxon,</hi> two. 2</item>
+                  <item>The County of <hi>Gloceſter,</hi> with the Burroughs, towns and Pariſhes therein (except Gloceſter) ſeven. 7</item>
+                  <item>The City of <hi>Gloceſter,</hi> two. 2</item>
+                  <item>The County of <hi>Hereford,</hi> with the Burroughs, towns, and Pariſhes therin (except <hi>Hereford</hi>) four. 4</item>
+                  <item>The Citie of <hi>Hereford,</hi> one. 1</item>
+                  <item>The County of <hi>Worceſter,</hi> with the Burroughs, towns, and Pariſhes therein (except <hi>Worceſter</hi>) foure. 4</item>
+                  <item>The City of <hi>Worceſter,</hi> two. 2</item>
+                  <item>The County of <hi>Warwicke,</hi> with the Burroughs, townes, and Pariſhes therein (except <hi>Coventrey</hi>) five. 5</item>
+                  <item>The City of <hi>Coventrey,</hi> two. 2</item>
+                  <item>The County of <hi>Northampton,</hi> with the Burroughs, towns and Pariſhes therein (except <hi>Northampton</hi>) five. 5</item>
+                  <item>The Town of <hi>Northampton,</hi> one. 1</item>
+                  <item>The County of <hi>Bedford,</hi> with the Burroughs, townes, and Pariſhes therein, foure. 4</item>
+                  <pb n="12" facs="tcp:47962:8"/>
+                  <item>The County of <hi>Cambridge,</hi> with the Burroughs, towns, and Pariſhes therein (except ſuch as are here under particularly named) foure. 4</item>
+                  <item>The Univerſity of <hi>Cambridge,</hi> two. 2</item>
+                  <item>The Town of <hi>Cambridge,</hi> two. 2</item>
+                  <item>The County of <hi>Eſſex,</hi> with the Burroughs, towns, and Pariſhes therein (except <hi>Colchester</hi>) eleven. 11</item>
+                  <item>The Town of <hi>Colcheſter,</hi> two. 2</item>
+                  <item>The County of <hi>Suffolk,</hi> with the Burroughs, Towns, and Pariſhes therein (except ſuch as are hereunder named) ten. 10</item>
+                  <item>The Town of <hi>Ipſwich,</hi> two. 2</item>
+                  <item>The Town of <hi>S. Edmonds Bury,</hi> one. 1</item>
+                  <item>The County of <hi>Norfolk,</hi> with the Burroughs, Towns, and Pariſhes therein (except ſuch as are hereunder named) nine. 9</item>
+                  <item>The City of <hi>Norwich,</hi> three. 3</item>
+                  <item>The Town of <hi>Lynne,</hi> one. 1</item>
+                  <item>The Town of <hi>Yarmouth,</hi> one. 1</item>
+                  <item>The County of <hi>Lincoln,</hi> with the Burroughs, Towns, and Pariſhes therein (except the City of <hi>Lincoln,</hi> and the town of <hi>Boſton</hi>) eleven. 11</item>
+                  <item>The City of <hi>Lincoln,</hi> one. 1</item>
+                  <item>The Town of <hi>Boſton,</hi> one. 1</item>
+                  <item>The County of <hi>Rutland,</hi> with the Burroughs, Townes, and Pariſhes therein, one. 1</item>
+                  <pb n="13" facs="tcp:47962:8"/>
+                  <item>The County of <hi>Huntington,</hi> with the Burroughs, Towns and Pariſhes therein, three. 3</item>
+                  <item>The County of <hi>Leiceſter,</hi> with the Burroughs, Townes and Pariſhes therein (except <hi>Leiceſter</hi>) five. 5</item>
+                  <item>The Town of <hi>Leiceſter,</hi> one. 1</item>
+                  <item>The County of <hi>Nottingham,</hi> with the Burroughs, Towns and Pariſhes therein (except <hi>Nottingham</hi>) foure. 4</item>
+                  <item>The Town of <hi>Nottingham,</hi> one. 1</item>
+                  <item>The County of <hi>Derby,</hi> with the Burroughs, Townes, and Pariſhes therein except <hi>Derby</hi>) five. 5</item>
+                  <item>The Town of <hi>Derby,</hi> one. 1</item>
+                  <item>The County of <hi>Stafford,</hi> with the City of <hi>Lichfield,</hi> the Burroughs, towns and Pariſhes therein, ſix. 6</item>
+                  <item>The County of <hi>Salop,</hi> with the Burroughs, towns, and Pariſhes therein (except <hi>Shrewsbury</hi>) ſix. 6</item>
+                  <item>The Town of <hi>Shrewesbury,</hi> one. 1</item>
+                  <item>The County of <hi>Cheſter,</hi> with the Burroughs, townes, and Pariſhes therein (except <hi>Chester</hi>) five. 5</item>
+                  <item>The City of <hi>Chester,</hi> two. 2</item>
+                  <item>The County of <hi>Lancaster,</hi> with the Burroughs, townes, and Pariſhes therein (except <hi>Mancheſter</hi>) ſix. 6</item>
+                  <item>The town of <hi>Mancheſter,</hi> and the Pariſh, one. 1</item>
+                  <item>The County of <hi>Yorke,</hi> with the Burroughs, towns, and Pariſhes, therein, except ſuch as are here under na<g ref="char:EOLhyphen"/>med, fifteen. 15</item>
+                  <pb n="14" facs="tcp:47962:9"/>
+                  <item>The City and County of the City of <hi>Yorke,</hi> three. 3</item>
+                  <item>The Town and County of <hi>Kingſton</hi> upon <hi>Hull,</hi> one. 1</item>
+                  <item>The town and Pariſh of <hi>Leeds,</hi> one. 1</item>
+                  <item>The County <hi>Palatine</hi> of <hi>Dureſme,</hi> with the Burroughs, towns, and Pariſhes therein, except <hi>Dureſme</hi> and <hi>Gateſide,</hi> three. 3</item>
+                  <item>The City of <hi>Dureſme,</hi> one. 1</item>
+                  <item>The County of <hi>Northumberland,</hi> with the Burroughs, towns and Pariſhes therein, except ſuch as are here under named, three. 3</item>
+                  <item>The Town and County of <hi>Newcastle</hi> upon <hi>Tyne,</hi> with <hi>Gateſide,</hi> two. 2</item>
+                  <item>The Town of <hi>Berwicke,</hi> one. 1</item>
+                  <item>The County of <hi>Cumberland,</hi> with the Burroughs, towns, and Pariſhes therein, three. 3</item>
+                  <item>The County of <hi>VVeſtmerland,</hi> with the Burroughs, towns and Pariſhes therein, two. 2</item>
+                  <item>The Iſle of <hi>Angleſey</hi> (with the Pariſhes therein) two. 2</item>
+                  <item>The County of <hi>Brecknock,</hi> with the Burroughs, towns, and Pariſhes therein, three. 3</item>
+                  <item>The County of <hi>Cardigan,</hi> with the Burroughs and Pa<g ref="char:EOLhyphen"/>riſhes therein, three. 3</item>
+                  <item>The County of <hi>Caermarthen,</hi> with the Burroughs and Pariſhes therein, three. 3</item>
+                  <item>The County of <hi>Carnarvon,</hi> with the Burroughs and Pari<g ref="char:EOLhyphen"/>ſhes therein, two. 2</item>
+                  <pb n="15" facs="tcp:47962:9"/>
+                  <item>The County of <hi>Denbigh,</hi> with the Burroughs and Pari<g ref="char:EOLhyphen"/>ſhes therein, two. 2</item>
+                  <item>The County of <hi>Flint,</hi> with the Burroughs and Pariſhes therein, one. 1</item>
+                  <item>The County of <hi>Monmouth,</hi> with the Burroughs and Pa<g ref="char:EOLhyphen"/>riſhes therein, foure. 4</item>
+                  <item>The County of <hi>Glamorgan,</hi> with the Burroughs and Pa<g ref="char:EOLhyphen"/>riſhes therein, foure. 4</item>
+                  <item>The County of <hi>Merioneth,</hi> with the Burroughs and Pariſhes therein, two. 2</item>
+                  <item>The County of <hi>Mountgomery,</hi> with the Burroughs and Pariſhes therein, three. 3</item>
+                  <item>The County of <hi>Radnor,</hi> with the Burroughs and Pari<g ref="char:EOLhyphen"/>ſhes therein, two. 2</item>
+                  <item>The County of <hi>Pembroke,</hi> with the Burroughs, Towns and Pariſhes therein, foure. 4</item>
+               </list>
+               <pb n="16" facs="tcp:47962:10"/>
+               <p>Provided, That the firſt or ſecond Repreſentative may (if they ſee cauſe) aſſigne the remainder of the foure hundred Repreſentors, (not hereby aſſigned) or ſo many of them as they ſhall ſee cauſe for, unto ſuch Counties as ſhall appear in this preſent diſtribution to have leſſe then their due proporti<g ref="char:EOLhyphen"/>on. Provided alſo, That where any Citie or Burrough to which one Repreſentor or more is aſſign'd ſhall be found in a due proportion, not competent alone to elect a Repreſentor, or the number of Repreſentors aſſign'd thereto, it is left to future Repreſentatives to aſſigne ſuch a number of Pariſhes or Villages neare adjoyning to ſuch City, or Burrough, to be joyned therewith in the Elections, as may make the ſame pro<g ref="char:EOLhyphen"/>portionable.</p>
+               <p n="3">3. That the people do of courſe chooſe themſelves a Repre<g ref="char:EOLhyphen"/>ſentative once in two yeares, and ſhall meet for that purpoſe upon the firſt Thurſday in every ſecond May by eleven of of Clock in the morning, and the Repreſentatives ſo choſen to meet upon the ſecond Thurſday in June following at the u<g ref="char:EOLhyphen"/>ſuall place in Weſtminſter, or ſuch other place as by the fore<g ref="char:EOLhyphen"/>going Repreſentative, or the Councell of State in the inter<g ref="char:EOLhyphen"/>vall, ſhall be from time to time appointed and publiſhed to the People, at the leaſt twenty daies before the time of Elec<g ref="char:EOLhyphen"/>tion. And to continue their Seſſion there or elſewhere untill the ſecond Thurſday in December following, unleſſe they ſhall adjourne, or diſſolve themſelves ſooner, but not to con<g ref="char:EOLhyphen"/>tinue longer. The Election of the firſt Repreſentative to be on the firſt Thurſday in May, 1649. And that, and all future Elec<g ref="char:EOLhyphen"/>tions to be according to the rules preſcribed for the ſame pur<g ref="char:EOLhyphen"/>poſe in this Agreement, viz.</p>
+               <p n="1">1. That the Electors in every Diviſion, ſhall be Natives, or Denizons of England, not perſons receiving Almes, but ſuch as are aſſeſſed ordinarily, towards the reliefe of the poore; not ſervants to, and receiving wages from any particular perſon. And in all Elections, (except for the Univerſities,) they ſhall be men of one and twen<g ref="char:EOLhyphen"/>ty yeares old, or upwards, and houſe-keepers, dwelling
+<pb n="15" facs="tcp:47962:10"/>within the Deviſion for which the Election is pro<g ref="char:EOLhyphen"/>vided, That untill the end of ſeven years next en<g ref="char:EOLhyphen"/>ſuing the time herein limited, for the end of this preſent Parliament no perſon ſhall be admitted to, or have any hand or voice in ſuch Elections, who hath adhered unto, or aſſiſted the <hi>King</hi> againſt the <hi>Parliament,</hi> in any the late Warres, or Inſurrecti<g ref="char:EOLhyphen"/>ons, or who ſhall make or joyn in, or abet any forcible oppoſition againſt this Agreement.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> That ſuch perſons, and ſuch only, may be elected to be of the Repreſentative, who by the rule a<g ref="char:EOLhyphen"/>foreſaid, are to have voice in Elections in one place or other; provided, That of thoſe, none ſhall be eligible for the firſt or ſecond Repreſentatives, who have not voluntarily aſſiſted the <hi>Parliament</hi> againſt the <hi>King,</hi> either in perſon before the 14. of <hi>June</hi> 1645. or elſe in Money, Plate, Horſe, or Armes, lent upon the Propoſitions before the end of <hi>May</hi> 1643. or who have joyned in, or abetted the treaſonable Engagement in <hi>London,</hi> in the year 1647. or who declared or engaged them<g ref="char:EOLhyphen"/>ſelves for a Ceſſation of Armes with the <hi>Scots,</hi> that invaded this Nation, the laſt Summer, or for com<g ref="char:EOLhyphen"/>plyance with the Actors in any the inſurrections, of the ſame Summer, or with the Prince of <hi>Wales,</hi> or his accomplices in the Revolted Fleete. And al<g ref="char:EOLhyphen"/>ſo provided, That ſuch perſons as by the rules in the preceding Article are not capable of electing untill the end of ſeven years, ſhall not be capable to be elected until the end of 14. years, next enſu<g ref="char:EOLhyphen"/>ing. And we do deſire and recommend it to all men, that in all times the perſons to be choſen for this great truſt, may be men of courage, fear<g ref="char:EOLhyphen"/>ing God, and hating covetouſneſſe, and that our
+<pb n="16" facs="tcp:47962:11"/>Repreſentatives would make the beſt proviſions for that end.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. That whoever, by the two rules in the next preceding Articles, are incapable of Election, or to be elected, ſhall aſſume to vote in, or be preſent at ſuch Elections for the firſt or ſecond Repreſentative, or being elected ſhall preſume to ſit or vote in either of the ſaid Repreſentatives, ſhall incur the pain of confiſcation of the moyety of his Eſtate, to the uſe of the publike, in caſe he have any eſtate viſible, to the value of fifty pounds. And if he have not ſuch an Eſtate, then he ſhall in<g ref="char:EOLhyphen"/>cur the pain of Impriſonment, for 3. months; And if any perſon ſhall forcibly oppoſe, moleſt, or hinder the people, (capable of electing as afore<g ref="char:EOLhyphen"/>ſaid) in their quiet and free Election of Repreſen<g ref="char:EOLhyphen"/>tors, for the firſt Repreſentative, then each per<g ref="char:EOLhyphen"/>ſon ſo offending, ſhall incur the penalty of confiſ<g ref="char:EOLhyphen"/>cation of his whole Eſtate, both reall and perſonal; and (if he have not an Eſtate to the value of fifty pounds,) ſhall ſuffer impriſonment during one whole year without Baile, or Mainprize. Provi<g ref="char:EOLhyphen"/>ded, That the Offender in each ſuch caſe, be con<g ref="char:EOLhyphen"/>victed within three Moneths next after the com<g ref="char:EOLhyphen"/>mitting of his offence, And the firſt Repreſentative is to make further proviſion for the avoyding of theſe evils in after Elections.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> That to the end, all Officers of State may be certainly accomptable, and no factions made to mainetaine corrupt intereſts, no Member of a Conncell of State, nor any Officer of any Salary forces in Army, or Garriſon, nor any Treaſurer or Receiver of publique monies, ſhall (while ſuch) be elected to be of a Repreſentative. And in caſe any ſuch Election ſhall be, the ſame to be void. And
+<pb n="17" facs="tcp:47962:11"/>in caſe any Lawyer ſhall be choſen of any Repre<g ref="char:EOLhyphen"/>ſentative, or Councel of State, then he ſhall be un<g ref="char:EOLhyphen"/>capable of practice as a Lawyer, during that truſt.</p>
+               <p>For the more convenient Election of Re<g ref="char:EOLhyphen"/>preſentatives, each County wherein more then three Repreſenters are to be choſen, with the Townes Corporate and Cities, (if their be any) lying within compaſſe thereof, to which no Re<g ref="char:EOLhyphen"/>preſenters are herein aſſigned, ſhall be divided by a due proportion into ſo many, and ſuch parts, as each part may elect two, &amp; no part above three Repreſenters; For the ſetting forth of which Di<g ref="char:EOLhyphen"/>viſious, and the aſcertaining of other circumſtan<g ref="char:EOLhyphen"/>ces hereafter expreſt, ſo as to make the Elections leſſe ſubject to confuſion, or miſtake, in order to the next Repreſentative, <hi>Thomas</hi> Lord <hi>Grey</hi> of <hi>Grobey,</hi> Sir <hi>John Danvers,</hi> Sir <hi>Henry Holcraft</hi> Knights, <hi>Mo<g ref="char:EOLhyphen"/>ſes Wall</hi> Gentleman, <hi>Samuel Mayor, John Langley, William Hamkins, Abraham Babington, Daniel Tay<g ref="char:EOLhyphen"/>lor, Mark Hilley, Richard Price,</hi> and Col. <hi>John White,</hi> Citizens of <hi>London,</hi> or any five, or more of them are intruſted to nominate and appoint under their Hands and Seales, three or more fit perſons in each County, and in each City, and Borough, to which one Repreſentor or more is aſſigned to be as Commiſſioners for the ends afore<g ref="char:EOLhyphen"/>ſaid, in the reſpective Connties, Cities, and Burroughs, and by the writing under their Hands and Seals ſhall certifie into the Parliament Records, before the fourteenth day of <hi>February</hi> next, the names of the Commiſſioners ſo appoin<g ref="char:EOLhyphen"/>ted for the reſpective Counties, Cities, and Burroughs, which Commiſſioners, or any three, or more of them, for the reſpective Counties, Cities, and Burroughs, ſhall before the end of <hi>February</hi> next, by writing under their Hands and Seales
+<pb n="18" facs="tcp:47962:12"/>appoint two fit and faithfull perſons, or more in each Hundred, Lath, or Wapentake, within the reſpective Counties, and in each Ward, within the City of <hi>London,</hi> to take care for the orderly ta<g ref="char:EOLhyphen"/>king of all voluntary ſubſcriptions to this Agree<g ref="char:EOLhyphen"/>ment, by fit perſons to be imployed for that pur<g ref="char:EOLhyphen"/>poſe in every Pariſh, who are to returne the ſub<g ref="char:EOLhyphen"/>ſcripſions ſo taken to the perſons that imployed them, (keeping a tranſcript thereof to themſelves) &amp; thoſe perſons keeping like Tyanſcripts to return the Originall ſubſcriptions to the reſpective Com<g ref="char:EOLhyphen"/>miſſioners, by whom they were appointed, at, or before the fourteenth of <hi>Aprill</hi> next, to be regiſtred and kept in the County Records, for the ſaid Counties reſpectively, and the ſubſcriptions in the City of <hi>London,</hi> to be kept in the chief Court of Record for the ſaid City. And the Commiſſioners for the other Cities and Boroughs reſpectively, are to appoint two, or more, fit perſons in every Pariſh within their Precincts to take ſuch ſub<g ref="char:EOLhyphen"/>ſcriptions, and (keeping tranſcriptions thereof) to return the Originalls to the reſpective Commiſ<g ref="char:EOLhyphen"/>ſioners by the ſaid fourteenth of <hi>Aprill</hi> next, to be regiſtred and kept in the chief Court within the re<g ref="char:EOLhyphen"/>ſpective Cities and Boroughs. And the ſame Com<g ref="char:EOLhyphen"/>miſſioners, or any three, or more of them, for the ſeverall Counties, Cities, and Boroughs, re<g ref="char:EOLhyphen"/>ſpectively, ſhall, where more then three Repreſen<g ref="char:EOLhyphen"/>tors are to be choſen divide ſuch Counties (as alſo the City of <hi>London</hi>) into ſo many, and ſuch parts as are afore mentioned, and ſhall ſet forth the bounds of ſuch diviſions, and ſhall in every County, City, and Borough (where any Repre<g ref="char:EOLhyphen"/>ſenters are to be choſen) and in every ſuch divi<g ref="char:EOLhyphen"/>ſion as aforeſaid within the City of <hi>London,</hi> and
+<pb n="19" facs="tcp:47962:12"/>within the ſeverall Counties ſo divided, reſpective<g ref="char:EOLhyphen"/>ly, appoint one certain place wherein the people ſhall meete for the choyſe of their Repreſentors, and ſome one fit Perſon, or more, inhabiting with<g ref="char:EOLhyphen"/>in each Borough, City, County, or Diviſion, re<g ref="char:EOLhyphen"/>ſpectively, to be preſent at the time and place of Election, in the nature of Sheriffes to regulate the Elections, and by Pole, or otherwiſe, clearly to diſtinguiſh and judge thereof, and to make return of the Perſon or Perſons Elected, as is hereafter expreſt, and ſhall likewiſe in writing under their Hands and Seales, make Certificates of the ſeverall Diviſions (with the bounds there<g ref="char:EOLhyphen"/>of) by them ſet forth, and of the certain places of meeting, and Perſons, in the nature of Sheriffes appointed in them reſpe<g ref="char:EOLhyphen"/>ctively, as aforeſaid,<note place="margin">
+                     <hi>Memorandum,</hi> That the Commiſſioners for the re<g ref="char:EOLhyphen"/>ſpective Counties, Cities, and Boroughs, are to re<g ref="char:EOLhyphen"/>turn a Computation of the number of Subſcribers in the ſeverall Pariſhes unto the Truſtees herein named before the end of <hi>April</hi> next, at ſuch place, and in ſuch forme as the ſaid Truſtees, or any five, or more of them ſhall direct.</note> and cauſe ſuch Certificates to be returned into the Par<g ref="char:EOLhyphen"/>liament Records be<g ref="char:EOLhyphen"/>fore the end of <hi>April</hi> next, and before that time ſhall alſo cauſe the ſame to be publiſhed in every Pariſh within the Coun<g ref="char:EOLhyphen"/>ties, Cities, and Boroughs reſpectively, and ſhall in every ſuch Pariſh like<g ref="char:EOLhyphen"/>wiſe nominate and ap<g ref="char:EOLhyphen"/>point (by Warrant un<g ref="char:EOLhyphen"/>der their hands and Seals) one Truſty Perſon or more, inhabiting therein, to make a true liſt of all the Perſons within their reſpective Pa<g ref="char:EOLhyphen"/>riſhes, who according to the rules aforego<g ref="char:EOLhyphen"/>ing are to have voyce in the Elections, and ex<g ref="char:EOLhyphen"/>preſſing, who amongſt them are by the ſame rules
+<pb n="20" facs="tcp:47962:13"/>capable of being elected, and ſuch Lift (with the ſaid Warrant) to bring in, and return at the time and place of Election, unto the Per<g ref="char:EOLhyphen"/>ſon appointed in the nature of Sheriffe, as a<g ref="char:EOLhyphen"/>foreſaid, for that Borough, City, County, or Diviſion reſpectively; which Perſon ſo appoin<g ref="char:EOLhyphen"/>ted as Sheriff, being preſent at the time and place of Election; or in caſe of his abſence by the ſpace of one houre after the time limited for the peoples meeting, then any Perſon pre<g ref="char:EOLhyphen"/>ſent that is eligible, as aforeſaid, whom the people then and there aſſembled ſhall chuſe for that end, ſhall receive and keep the ſaid Liſts, and admit the Perſons therein contained, or ſo many of them as are preſent unto a free Vote in the ſaid Election, and having firſt cauſed this Agreement to be publiquely read in the audi<g ref="char:EOLhyphen"/>ence of the people, ſhall proceed unto, and regulate and keep peace and order in the Electi<g ref="char:EOLhyphen"/>ons, and by Pole, or otherwiſe, openly diſtinguiſh and judge of the ſame: And thereof by Cer<g ref="char:EOLhyphen"/>tificate, or writing under the hands and Seales of himſelf, and ſix or more of the Electors (no<g ref="char:EOLhyphen"/>minating the Perſon or Perſons duly Elected) ſhall make a true return into the Parliament Records, within one and twenty dayes after the Election (under pain for default thereof, or for making any falſe Return to forfeit one hun<g ref="char:EOLhyphen"/>dred pounds to the Publique uſe.) And ſhall alſo cauſe Indentures to be made, and inter<g ref="char:EOLhyphen"/>changeably ſealed and delivered betwixt him<g ref="char:EOLhyphen"/>ſelf, and ſix or more of the ſaid Electors on the one part, and the Perſons, or each Per<g ref="char:EOLhyphen"/>ſon Elected ſeyerally on the other part, expreſ<g ref="char:EOLhyphen"/>ſing
+<pb n="21" facs="tcp:47962:13"/>their Election of him as a Repreſentor of them, according to this Agreement, and his ac<g ref="char:EOLhyphen"/>ceptance of that truſt, and his promiſe accor<g ref="char:EOLhyphen"/>dingly to performe the ſame with faithful<g ref="char:EOLhyphen"/>neſſe, to the beſt of his underſtanding and a<g ref="char:EOLhyphen"/>bility, for the glory of God, and good of the people.</p>
+               <p>This courſe is to hold for the firſt Repreſen<g ref="char:EOLhyphen"/>tative, which is to proceede for the aſcertain<g ref="char:EOLhyphen"/>ing of theſe Circumſtances in order to future Repreſentations.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> That one hundred and fifty Members at leaſt, be alwaies preſent in each ſitting of the Repre<g ref="char:EOLhyphen"/>ſentative, at the paſſing of any Law, or doing of any Act, whereby the people are to be bound; ſaving, That the number of ſixty may make an Houſe for Debates, or Reſolutions that are pre<g ref="char:EOLhyphen"/>paratory thereunto.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> That each Repreſentative ſhall within twen<g ref="char:EOLhyphen"/>ty dayes after their firſt meeting appoint a Coun<g ref="char:EOLhyphen"/>cell of State for the mannaging of Publique Af<g ref="char:EOLhyphen"/>faires, untill the tenth day after the meeting of the next Repreſentative, unleſſe that next Repre<g ref="char:EOLhyphen"/>ſentative think fit to put an end to that truſt ſooner. And the fame Councell to Act, and pro<g ref="char:EOLhyphen"/>ceed therein, according to ſuch Inſtructions, and limitations, as the Repreſentative ſhall give, and not otherwiſe.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> That in each intervall betwixt Bienniall Re<g ref="char:EOLhyphen"/>preſentatives,
+<pb n="22" facs="tcp:47962:14"/>the Councell of State (in caſe of imminent danger, or extreame neceſſity) may ſummon a Repreſentative to be forthwith choſen, and to meet; ſo as the Seſſion thereof continue not above fourſcore dayes, and ſo as it diſſolve, at leaſt, fifty dayes before the appointed time for the next Bienniall Repreſentative, and upon the fifty<g ref="char:EOLhyphen"/>eth day ſo proceeding, it ſhall diſſolve of courſe, if not otherwiſe diſſolved ſooner.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> That no Member of any Repreſentative be made either Keceiuer, Treaſurer, or other Officer, during that imployment, ſaving to be a Member of the Councell of State.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> That the Repreſentatives have, and ſhall be un<g ref="char:EOLhyphen"/>derſtood, to have the Supreame truſt in order to the preſervation and Government of the whole, and that their power extend, without the conſent or concurrence of any other Perſon or Perſons, to the erecting &amp; aboliſhing of Courts of Juſtice, and publique Offices, and to the enacting, alte<g ref="char:EOLhyphen"/>ring, repealing, and declaring of Lawes, and the higheſt and finall Judgement, concerning all Natu<g ref="char:EOLhyphen"/>rall or Civill things, but not concerning things Spirituall or Evangelicall; Provided, that even in things Naturall and Civill theſe ſix particulars next following, are, and ſhall be underſtood to be ex<g ref="char:EOLhyphen"/>cepted, &amp; reſerved from our Repreſentatives, <hi>viz.</hi>
+               </p>
+               <p n="1">1 We doe not impower them to Impreſt, or conſtraine any Perſon to ſerve in Forrainge Warre either by Sea or Land, nor for any Military Service within the KINGDOME, ſave that they may take order for the
+<pb n="23" facs="tcp:47962:14"/>the forming, training and exerciſing of the people in a military way to be in readineſſe for reſiſting of For<g ref="char:EOLhyphen"/>raign Invaſions, ſuppreſſing of ſudden Inſurrections, or for aſſiſting in execution of Law; and may take order for the imploying and conducting of them for thoſe ends; provided, That even in ſuch caſes none be com<g ref="char:EOLhyphen"/>pellable to go out of the County he lives in, if he pro<g ref="char:EOLhyphen"/>cure another to ſerve in his room.</p>
+               <p n="2">2. That after the time herein limited for the commence<g ref="char:EOLhyphen"/>ment of the firſt Repreſentative, none of the people may be at any time queſtioned for any thing ſaid or done in relation to the late Wars, or publick differen<g ref="char:EOLhyphen"/>ces, otherwiſe then in execution or purſuance of the determinations of the preſent Houſe of Commons, againſt ſuch as have adhered to the King, or his inte<g ref="char:EOLhyphen"/>reſt againſt the people: And ſaving that Accomptants for publick monies received, ſhall remain accomptable for the ſame.</p>
+               <p n="3">3. That no ſecurities given, or to be given by the publick Faith of the Nation, nor any engagement of the pub<g ref="char:EOLhyphen"/>lick Faith for ſatisfaction of Debts and Damages, ſhall be made void or invalid by the next or any future Re<g ref="char:EOLhyphen"/>preſentatives; except to ſuch Creditors, as have, or ſhall have juſtly forfeited the ſame; and ſaving, That the next Repreſentative may confirm or make null, in part, or in whole, all gifts of Lands, Monies, Offi<g ref="char:EOLhyphen"/>ces, or otherwiſe, made by the preſent Parliament to any Member or Attendant of either Houſe.</p>
+               <p n="4">4. That in any Laws hereafter to be made, no perſon, by vertue of any Tenure, Grant, Charter, Patent, Degree or Birth, ſhall be priviledged from ſubjection thereto, or from being bound thereby, as well as others.</p>
+               <p n="5">5. That the Repreſentative may not give judgement up<g ref="char:EOLhyphen"/>on any mans perſon or eſtate, where no Law hath be<g ref="char:EOLhyphen"/>fore provided; ſave onely in calling to Accompt, and puniſhing publick Officers for abuſing or failing their Truſt.</p>
+               <p n="6">6. That no Repreſentative may in any wiſe render up, or
+<pb n="24" facs="tcp:47962:15"/>give, or take away any the Foundations of common Right, Liberty and Safety contained in this Agree<g ref="char:EOLhyphen"/>ment; nor levell mens Eſtates, deſtroy Propriety, or make all things common: And that in all matters of ſuch fundamentall concernment, there ſhall be a liber<g ref="char:EOLhyphen"/>ty to particular Members of the ſaid Repreſentatives to enter their diſſents from the <hi>major</hi> vote.</p>
+               <p n="9">9. <hi>Concerning Religion, we agree as followeth.</hi>
+               </p>
+               <list>
+                  <item>1. It is intended, That Chriſtian Religion be held forth and recommended, as the publike Profeſſion in this Nation (which wee deſire may by the grace of God be reformed to the greateſt purity in Doctrine, Wor<g ref="char:EOLhyphen"/>ſhip and Diſcipline, according to the Word of God.) The inſtructing of the people whereunto in a publick way (ſo it be not compulſive) as alſo the maintaining of able Teachers for that end, and for the confutation or diſcovery of Hereſie, Errour, and whatſoever is con<g ref="char:EOLhyphen"/>trary to ſound Doctrine, is allowed to be provided for by our Repreſentatives; the maintainance of which may be out of a publick Treaſury, and wee deſire not by Tithes. Provided, That Popery or Prelacy be not held forth as the publick way or profeſſion in this Nation.</item>
+                  <item>2. That to the publick Profeſſion ſo held forth, none be compelled by penalties or otherwiſe; but onely may be endeavoured to be won by ſound Doctrine, and the example of a good Converſation.</item>
+                  <item>3. That ſuch as profeſſe Faith in God by Jeſus Chriſt, (however differing in judgement from the Doctrine, Worſhip or Diſcipline publickly held forth, as afore<g ref="char:EOLhyphen"/>ſaid) ſhall not be reſtrained from, but ſhall be protect<g ref="char:EOLhyphen"/>ed in the profeſſion of their Faith, and exerciſe of Religion according to their Conſciences, in any place (except ſuch as ſhall be ſet apart for the publick Worſhip, where we provide not for them, unleſſe they have leave) ſo as they abuſe not this liberty to the civill injury of others, or to actuall diſturbance of
+<pb n="25" facs="tcp:47962:15"/>the publick Peace on their parts, nevertheleſſe it is not intended to be hereby provided, That this Liberty ſhall neceſſarily extend to Popery or Pre<g ref="char:EOLhyphen"/>lacy.</item>
+                  <item>4. That all Laws, Ordinances, Statutes, and clauſes in any Law, Statute or Ordinance to the contrary of the Liberty herein, provided for in the two particulars next proceeding concerning Religion, be and are hereby repealed and made void.</item>
+               </list>
+               <p n="10">10. It is agreed, That whoſoever ſhall by Force of Armes, reſiſt the Orders of the next or any future Repre<g ref="char:EOLhyphen"/>ſentative (except in caſe where ſuch Repreſentative ſhall e<g ref="char:EOLhyphen"/>vidently render up, or give, or take away the Foundati<g ref="char:EOLhyphen"/>ons of common Right, Liberty and Safety contain'd in this Agreement) ſhall forthwith after his or their ſuch Reſiſtance loſe the benefit and protection of the Laws, and ſhall be puniſhable with Death, as an Enemy and Traitour to the Nation.</p>
+               <p>Of the things expreſt in this Agreement,<note place="margin">The form of ſubſcription for the Offi<g ref="char:EOLhyphen"/>cers of the Army.</note> The certain ending of this Parliament (as in the firſt Article) the equal or proportionable diſtribution of the number of the Re<g ref="char:EOLhyphen"/>preſentators to be elected (as in the ſecond) The certainty of the peoples meeting to elect for Repreſentatives Bien<g ref="char:EOLhyphen"/>niall, and their freedom in Elections with the certainty of meeting, ſitting and ending of Repreſentatives ſo elected (which are provided for in the third Article) as alſo the Qualifications of Perſons to elect or be elected (as in the firſt and ſecond particulars under the third Article) Alſo the certainty of a number for paſſing a Law or preparatory debates (provided for in the fourth Article) The matter of the fifth Article, concerning the Councell of State: and of the ſixth, concerning the calling, ſitting and ending of Repreſentatives extraordinary: Alſo the power of Re<g ref="char:EOLhyphen"/>preſentatives to be, as in the eighth Article, and limited, as in the fixt, reſerves next following the ſame. Likewiſe the ſecond and third particulars under the 9th Article con<g ref="char:EOLhyphen"/>cerning Religion, and the whole matter of the 10th Article</p>
+               <pb n="26" facs="tcp:47962:16"/>
+               <p>All theſe we do account and declare to be fundamentall to our common Right, Liberty and Safety; and therefore do both agree thereunto, and reſolve to maintain the ſame, as God ſhall enable us. The reſt of the matters in this A<g ref="char:EOLhyphen"/>greement, we account to be uſefull and good for the pub<g ref="char:EOLhyphen"/>lick, and the particular circumſtances of numbers, times and places, expreſſed in the ſeverall Articles, we account not Fundamentall, but we finde them neceſſary to be here determined for the making the Agreement certain and practicable, and do hold theſe moſt convenient that are here ſet down, and therefore do poſitively agree thereunto.</p>
+            </div>
+         </div>
+         <div type="text">
+            <head>A Declaration of his Excellency <hi>THOMAS</hi> Lord <hi>FAIRFAX,</hi> and his Generall Councell of Officers: Concerning the Agreement by them framed in or<g ref="char:EOLhyphen"/>der to Peace, and from them tendred to the People of <hi>ENGLAND.</hi>
+            </head>
+            <p>HAVING ever ſince the end of the firſt War longingly waited for ſome ſuch ſettlement of the Peace and Government of this Nati<g ref="char:EOLhyphen"/>on, whereby the common Rights, Liberties and ſafety thereof, might in future be more hopefully provided for; and therein ſome<g ref="char:EOLhyphen"/>thing gained, which might be accounted to the preſent age and poſterity, through the mercy of God, as a fruit of their labours, hazards and ſufferings, that have engaged in the common Cauſe, as ſome price of the blood ſpilt, and bal<g ref="char:EOLhyphen"/>lance to the publick expence and damage ſuſtained in the War, and as ſome due improvement of that ſucceſſe and bleſſing God hath pleaſed to give them: And having not found any ſuch Eſtabliſhment aſſayed or endeavoured by thoſe whoſe proper work it was: But the many addreſſes and deſires of our ſelves, and others, in that behalf, reje<g ref="char:EOLhyphen"/>cted,
+<pb n="27" facs="tcp:47962:16"/>diſcountenanced and oppoſed, and onely a corrupt cloſure endeavoured with the King, on tearmes, ſerving onely to his intereſt, and theirs that promoted the ſame: And being thereupon (for the avoidance of the evil there<g ref="char:EOLhyphen"/>of, and to make way for ſome better ſettlement) neceſſita<g ref="char:EOLhyphen"/>ted to make extraordinary wayes of remedy (when the or<g ref="char:EOLhyphen"/>dinary were denied) now to exhibit our utmoſt endeavours for ſuch a ſettelement. Whereupon we and other Forces, (with which the Kingdome hath ſo long beene burthened above meaſure, and whoſe continuance ſhall not be neceſ<g ref="char:EOLhyphen"/>ſary for the immediate ſafety and quiet therof) may with comfort to our ſelves, and honeſty towards the publique, disband, and returne to our homes and callings; and to the end mens jealouſies &amp; fears may be removed concern<g ref="char:EOLhyphen"/>ing any intentions in us to hold up our ſelves in power, to oppreſſe or domineer over the people by the ſword: And that all men may fully underſtand thoſe grounds of peace and Government wherupon they may reſt aſſured; we ſhall for our parts acquieſce. We have ſpent much time to pre<g ref="char:EOLhyphen"/>pare, and have at laſt (through the bleſſing of God) finiſhed a Draught of ſuch a ſettlement, in the nature of an Agree<g ref="char:EOLhyphen"/>ment of the People for Peace amongſt themſelves; Which we have lately preſented to the Honourable the Com<g ref="char:EOLhyphen"/>mons now aſſembled in Parliament; and doe herewith tender to the people of this Nation: We ſhall not other<g ref="char:EOLhyphen"/>wiſe commend it, then to ſay, It containes the beſt and moſt hopefull Foundations for the Peace, and future well Government of this Nation, that we can deviſe or thinke on within the line of humane power, and ſuch wherein all the people intereſted in this Land (that have not particular intereſts of advantage &amp; power over others, divided from that which is common and publique, are indifferently and equally provided for, ſave where any have juſtly forfeited their ſhare in that common intereſt by oppoſing it, and ſo rendred themſelves incapable thereof (at leſt) for ſome time. And we call the Conſciences of all that read or hear it, to witneſſe, whether we have therein provided or pro<g ref="char:EOLhyphen"/>pounded an4y thing of advantage to our ſelves in any ca<g ref="char:EOLhyphen"/>pacity
+<pb n="28" facs="tcp:47962:17"/>above others, or ought, but what is as good for one as for another: And therefore as we doubt not but that the Parliament being now freed from the obſtructing and per<g ref="char:EOLhyphen"/>verting Councels of ſuch Members, by many of whom a corrupt compliance with the Kings Intereſt hath been dri<g ref="char:EOLhyphen"/>ven on, and all ſettlement otherwiſe hath hither to been hindered) Thoſe remaining worthy Patriots to whom we have preſented the Agreement, will for the main allow thereof, and give their ſeal of Approbation thereby: So we deſire and hope, That all good people of <hi>England</hi> whoſe heart God ſhall make ſenſible of their, and our common concernment therein, and of the uſefulneſſe and ſuitable<g ref="char:EOLhyphen"/>neſſe thereof to the publick ends it holds forth, will cor<g ref="char:EOLhyphen"/>dially embrace it, and by ſubſcription declare their concurrence and accord thereto, when it ſhall be ten<g ref="char:EOLhyphen"/>dred to them, as is directed therein; wherein if it pleaſe God, wee ſhall finde a good Reception of it with the people of the Nation, or the Well affected therein; We ſhall rejoyce at the hoped good to the Common<g ref="char:EOLhyphen"/>wealth, which through Gods mercy may redound there<g ref="char:EOLhyphen"/>from, and that God hath vouchſafed thereby to make us inſtrumentall for any good ſettlement to this poor diſtreſ<g ref="char:EOLhyphen"/>ſed Country, as he hath formerly made us for the avoid<g ref="char:EOLhyphen"/>ing of evil. But if God ſhall (in his Righteous Judgement towards this Land) ſuffer the people to be ſo blinded as not to ſee their own common good and freedom, endea<g ref="char:EOLhyphen"/>voured to be provided for therein, or any to be ſo deluded (to their own and the publick prejudice) as to make op<g ref="char:EOLhyphen"/>poſition thereto, whereby the effect of it be hindred, we have, yet, by the preparation and tender of it diſcharged our Conſciences to God, and duty to our native Country in our utmoſt endeavours for a ſettlement, (to the beſt of our underſtandings) unto a juſt publick intereſt; and hope we ſhall be acquitted before God and good men, from the blame of any further troubles, diſtractions or miſeries to the Kingdom, which may ariſe through the neglect or re<g ref="char:EOLhyphen"/>jection thereof, or oppoſition thereto. and whereas there are many good things in particular matters which our
+<pb n="29" facs="tcp:47962:17"/>own Reaſons and obſervations or the Petitions of others have ſuggeſted, and which we hold requiſite to be provided for in their proper time and way (as the ſetting of mode<g ref="char:EOLhyphen"/>rate Fines upon ſuch of the Kings Party as ſhall not be ex<g ref="char:EOLhyphen"/>cepted from life, with a certain day for their coming in and ſubmitting, and an Act of Pardon to ſuch as ſhall come in and ſubmit accordingly, or have already compounded. The ſetling of a Bevenue for all neceſſary publick uſes, in ſuch a way as the people may be moſt eaſed. The aſſigning of a free &amp; aſcertaining of ſecurities for Souldiers arrears, and for publick Debts and Damages. The taking away of Tithes, and putting that maintainance which ſhall be thought compete<g ref="char:cmbAbbrStroke">̄</g>t for able Teachers to inſtruct the people, into ſome other way, leſſe ſubject to ſcruple or contenti<g ref="char:EOLhyphen"/>on, the clearing and perfecting of Accompts for all pub<g ref="char:EOLhyphen"/>lique Monies, the relieving of priſoners for Debt; the re<g ref="char:EOLhyphen"/>moving or reforming of other evils or inconveniencies in the preſent I aws, and Adminiſtrations thereof, the re<g ref="char:EOLhyphen"/>dreſſe of abuſes, and ſupplying of Defects therein, put<g ref="char:EOLhyphen"/>ting of all the Laws and procedings thererf into the Eng<g ref="char:EOLhyphen"/>liſh tongue, the reducing of the courſe of Law to more brevity and leſſe charge, the ſetling of Courts of Juſtice and Recordin each County or leſſe Diviſions of the King<g ref="char:EOLhyphen"/>dom, and the erecting of Courts of Merchants for contro<g ref="char:EOLhyphen"/>verſies in trading, and the like.) Theſe and many other things of like ſort being of a particular nature, and requi<g ref="char:EOLhyphen"/>ring very particular and mature conſideration, with lar<g ref="char:EOLhyphen"/>ger experience in the particular matters then we have, and much Caution, that by taking away of preſent Evils grea<g ref="char:EOLhyphen"/>ter inconveniences may not enſue for want of other pro<g ref="char:EOLhyphen"/>viſions in the room thereof, where it is neceſſary and we (for our parts) being far from any Deſire or thought to aſſume or exerciſe a Law-giving, Judiciall power over the Kingdome, or to meddle in any thing ſave the funda<g ref="char:EOLhyphen"/>mental ſetling of that power in the moſt equall and hope<g ref="char:EOLhyphen"/>full way for Common Right, Freedom, and Safety (as in this Agreement) and having not meanes nor time for, nor the neceſſity of ſome preſent general ſettlement, admiting the delay of ſuch a conſideration, as ſeems requiſite in rela<g ref="char:EOLhyphen"/>tion
+<pb n="30" facs="tcp:47962:18"/>to ſuch numerous particulars, we have purpoſely de<g ref="char:EOLhyphen"/>clined the inſerting of ſuch things into this Agreement. But (as we have formerly expreſſed our deſires that way, ſo) when the matters of publique Juſtice, and generall ſet<g ref="char:EOLhyphen"/>tlement are over, we ſhall not be wanting (if needfull) humbly to reco<g ref="char:cmbAbbrStroke">̄</g>mend ſuch particulars to the Parliament, by whom they may more properly, ſafely, and ſatisfacto<g ref="char:EOLhyphen"/>rily be provided for, and we doubt not but they will be ſo, ſuch of them at leſt as are of more neare and preſent con<g ref="char:EOLhyphen"/>cernment by this Parliament, and the reſt by future Re<g ref="char:EOLhyphen"/>preſentatives in due time.</p>
+            <p>And thus we recommend for preſent the buſineſſe of this Agreement without further addition to the beſt conſi<g ref="char:EOLhyphen"/>deration of all indifferent and equall minded men, and commit the iſſue thereof (as of all our ways and concern<g ref="char:EOLhyphen"/>ments) to the good pleaſure of the Lord, whoſe will is better to us then our own, or any inventions of ours, who hath decreed and promiſed better things then we can wiſh or imagine, and who is moſt faithfull to accompliſh them in the beſt way and ſeaſon.</p>
+            <closer>
+               <signed>
+                  <hi>By the appointment of the generall Councell of Officers.</hi> JOHN RUSHWORTH, Secretary.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47962:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
